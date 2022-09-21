@@ -1,0 +1,15 @@
+## Interface: 70100
+## Title: EnigmaSlave
+## Notes: 
+## SavedVariables: Enigma_PartnerBnet
+
+util.lua
+
+PlayerList.lua
+ZoneList.lua
+
+vars.lua
+settings.lua
+comms.lua
+
+main.lua
